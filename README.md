@@ -18,9 +18,9 @@ Participei da criação de um mini RPG em Java para a disciplina de Orientação
 
 [Link do projeto](https://github.com/ic-unicamp/2024s1-mc613-projeto-tabajara-fc.git)
 
-#Tela de inicio
+### Tela de Início
 ![Imagem do Space Invaders](images/TelaInicio_Space.png)
-#Tela do jogo
+### Tela do Jogo
 ![Imagem do Space Invaders](images/Space%20Invaders.png)
 
 ## Projeto para ajudar no controle financeiro 💸

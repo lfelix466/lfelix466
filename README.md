@@ -90,9 +90,8 @@ Projeto desenvolvido para a disciplina de Engenharia de Software. Trata-se de um
   <img src="Images/ControleFinanceiro/Login.png" alt="Tela de login">
   <img src="Images/ControleFinanceiro/CriarConta.png" alt="Tela de criação de conta">
   <img src="Images/ControleFinanceiro/MenuPrincipal.png" alt="Tela principal da aplicação">
-  <img src="Images/ControleFinanceiro/AdicionarReceitas.png" alt="Tela da adição de receitas">
   <img src="Images/ControleFinanceiro/AprenderMais.png" alt="Tela de ler dicas de economia">
-  <img src="Images/ControleFinanceiro/TrocaSenha.png" alt="Tela de trocar a senha">
+  <img src="Images/ControleFinanceiro/trocaSenha.png" alt="Tela de trocar a senha">
   <img src="Images/ControleFinanceiro/AdicionarGastos.png" alt="Tela de adição de gastos">
 </div>
 

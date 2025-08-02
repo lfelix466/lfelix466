@@ -69,7 +69,7 @@ Participei do desenvolvimento de uma versão do jogo Space Invaders em uma placa
 ## Projeto para ajudar no controle financeiro 💸
 
 <p>
-Projeto desenvolvido para a disciplina de Engenharia de Software. Trata-se de um site voltado para auxiliar usuários no controle financeiro, oferecendo recursos como simulações, gráficos, sugestões e outros. O sistema foi construído utilizando diversas tecnologias, incluindo HTML, CSS, JavaScript, Python, Flask, SQLite e testes unitários. Além disso, o controle de versionamento foi aplicado de forma mais rigorosa em comparação aos projetos anteriores.
+Projeto desenvolvido para a disciplina de Engenharia de Software. Trata-se de um site voltado para auxiliar usuários no controle financeiro, oferecendo recursos como simulações, gráficos, sugestões e outros. O sistema foi construído utilizando diversas tecnologias, incluindo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Flask</strong>, <strong>SQLite</strong> e <strong>testes unitários</strong>. Além disso, o controle de versionamento foi aplicado de forma mais rigorosa em comparação aos projetos anteriores.
 </p>
 
 [Link do projeto](https://github.com/nadas-t/Projeto_MC656.git)
@@ -99,7 +99,7 @@ Projeto desenvolvido para a disciplina de Engenharia de Software. Trata-se de um
 
 <p>
 Este projeto foi desenvolvido para a disciplina de Introdução à Inteligência Artificial e tem como objetivo comparar diferentes modelos de IA na tarefa de prever a ocorrência de chuva, com base em dados como coordenadas geográficas, data, número de dias sem chuva, entre outros.
-Para isso, foram utilizados dados do banco de dados Queimadas, com foco em informações do território brasileiro. Os dados passaram por um processo de limpeza e tratamento para permitir análises mais precisas.
+Para isso, foram utilizados dados do BDQueimadas, com foco em informações do território brasileiro. Os dados passaram por um processo de limpeza e tratamento para permitir análises mais precisas.
 Três modelos principais foram utilizados na comparação:
 
 - Regressão Logística (modelo estatístico)

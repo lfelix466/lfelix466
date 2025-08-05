@@ -3,33 +3,6 @@
    <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <style>
-         .galeria {
-         display: grid;
-         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-         gap: 20px;
-         max-width: 1200px;
-         margin: 0 auto;
-         padding: 20px;
-         }
-         .galeria img {
-         width: 100%;
-         height: auto;
-         border: 1px solid #ccc;
-         border-radius: 8px;
-         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-         transition: transform 0.2s ease;
-         }
-         .galeria img:hover {
-         transform: scale(1.02);
-         }
-         .logo {
-         align-items: center;
-         width: 150px;
-         background-color: aquamarine;
-         border-radius: 50px;
-         }
-      </style>
       <title>Repositório - Lucas Félix</title>
    </head>
    <body>
@@ -155,4 +128,31 @@
          <img src="Images/TrabalhosImagens/Trabalho4/Imagem2.png" alt="Imagem 2">
       </div>
    </body>
+   <style>
+         .galeria {
+         display: grid;
+         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+         gap: 20px;
+         max-width: 1200px;
+         margin: 0 auto;
+         padding: 20px;
+         }
+         .galeria img {
+         width: 100%;
+         height: auto;
+         border: 1px solid #ccc;
+         border-radius: 8px;
+         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+         transition: transform 0.2s ease;
+         }
+         .galeria img:hover {
+         transform: scale(1.02);
+         }
+         .logo {
+         align-items: center;
+         width: 150px;
+         background-color: aquamarine;
+         border-radius: 50px;
+         }
+      </style>
 </html>

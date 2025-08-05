@@ -7,7 +7,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1" />
    </head>
    <body>
-      <div style="text-align: center;">
+      <div align="center">
          <img src="Images/Linux-Avatar.svg" alt="Imagem do logo do Linux" style="width: 150px; border-radius: 60px;" />
          <p><strong>Lucas Félix</strong> (Desenvolvedor Full-Stack)</p>
       </div>

@@ -19,3 +19,10 @@
   .galeria img:hover {
     transform: scale(1.02);
   }
+
+.logo {
+    align-items: center;
+    width: 150px;
+    background-color: aquamarine;
+    border-radius: 50px;
+}

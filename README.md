@@ -1,14 +1,14 @@
+<!-- Remova as tags <style> e aplique o CSS inline nos elementos necessários, pois o GitHub não processa <style> em markdown. -->
+
 <!DOCTYPE html>
 <html lang="pt-BR">
    <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>Repositório - Lucas Félix</title>
    </head>
    <body>
-      <h1 align="center">Repositório</h1>
       <div style="text-align: center;">
-         <img src="Images/Linux-Avatar.svg" alt="Imagem do logo do Linux"  class="logo" />
+         <img src="Images/Linux-Avatar.svg" alt="Imagem do logo do Linux" style="align-items: center; width: 150px; background-color: aquamarine; border-radius: 50px;" />
          <p><strong>Lucas Félix</strong> (Desenvolvedor Full-Stack)</p>
       </div>
       <h3>Tecnologias que trabalho atualmente</h3>
@@ -33,7 +33,7 @@
       </p>
       <p><a href="https://github.com/IsacL21/ProjetoJogoMC322.git">Link do projeto</a></p>
       <div align="center">
-         <img src="Images/MiniRPG/MiniRPG.png" alt="Mini java RPG" height="391" width="523">
+         <img src="Images/MiniRPG/MiniRPG.png" alt="Mini java RPG" height="391" width="523" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin: 10px 0;" />
       </div>
       <h2>Space Invaders para placas FPGA 👾</h2>
       <p>
@@ -42,11 +42,11 @@
       <p><a href="https://github.com/ic-unicamp/2024s1-mc613-projeto-tabajara-fc.git">Link do projeto</a></p>
       <h3>Tela de Início</h3>
       <div align="center">
-         <img src="Images/SpaceInvaders/TelaInicio_Space.png" alt="Tela inicial do jogo">
+         <img src="Images/SpaceInvaders/TelaInicio_Space.png" alt="Tela inicial do jogo" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin: 10px 0;" />
       </div>
       <h3>Tela do Jogo</h3>
       <div align="center">
-         <img src="Images/SpaceInvaders/SpaceInvaders.png" alt="Tela do jogo em execução">
+         <img src="Images/SpaceInvaders/SpaceInvaders.png" alt="Tela do jogo em execução" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin: 10px 0;" />
       </div>
       <h2>Projeto para Controle Financeiro 💸</h2>
       <p>
@@ -63,13 +63,13 @@
          <li>Tela de troca de senha</li>
          <li>Tela de adição de gastos</li>
       </ul>
-      <div class="galeria">
-         <img src="Images/ControleFinanceiro/Login.png" alt="Tela de login">
-         <img src="Images/ControleFinanceiro/CriarConta.png" alt="Tela de criação de conta">
-         <img src="Images/ControleFinanceiro/MenuPrincipal.png" alt="Tela principal da aplicação">
-         <img src="Images/ControleFinanceiro/AprenderMais.png" alt="Tela de ler dicas de economia">
-         <img src="Images/ControleFinanceiro/trocaSenha.png" alt="Tela de trocar a senha">
-         <img src="Images/ControleFinanceiro/AdicionarGastos.png" alt="Tela de adição de gastos">
+      <div>
+         <img src="Images/ControleFinanceiro/Login.png" alt="Tela de login" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/CriarConta.png" alt="Tela de criação de conta" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/MenuPrincipal.png" alt="Tela principal da aplicação" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/AprenderMais.png" alt="Tela de ler dicas de economia" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/trocaSenha.png" alt="Tela de trocar a senha" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/AdicionarGastos.png" alt="Tela de adição de gastos" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h2>Projeto de IA para Previsão de Chuva 🤖</h2>
       <p>
@@ -83,22 +83,22 @@
          <li>Deep Learning</li>
       </ul>
       <h4>Resultados: Regressão Logística</h4>
-      <div class="galeria">
-         <img src="Images/Previsao_chuva/Regressao_Logistica/Confusion_matrix.png" alt="Matriz de confusão">
-         <img src="Images/Previsao_chuva/Regressao_Logistica/Feature_importance.png" alt="Importância das features">
-         <img src="Images/Previsao_chuva/Regressao_Logistica/ROC.png" alt="Curva ROC">
+      <div>
+         <img src="Images/Previsao_chuva/Regressao_Logistica/Confusion_matrix.png" alt="Matriz de confusão" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Regressao_Logistica/Feature_importance.png" alt="Importância das features" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Regressao_Logistica/ROC.png" alt="Curva ROC" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h4>Resultados: Random Forest</h4>
-      <div class="galeria">
-         <img src="Images/Previsao_chuva/Random_Forest/Confusion_matrix.png" alt="Matriz de confusão">
-         <img src="Images/Previsao_chuva/Random_Forest/Feature_importac-nce.png" alt="Importância das features">
-         <img src="Images/Previsao_chuva/Random_Forest/ROC.png" alt="Curva ROC">
+      <div>
+         <img src="Images/Previsao_chuva/Random_Forest/Confusion_matrix.png" alt="Matriz de confusão" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Random_Forest/Feature_importac-nce.png" alt="Importância das features" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Random_Forest/ROC.png" alt="Curva ROC" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h4>Resultados: Deep Learning</h4>
-      <div class="galeria">
-         <img src="Images/Previsao_chuva/Deep_Learning/Confusion_matrix.png" alt="Matriz de confusão">
-         <img src="Images/Previsao_chuva/Deep_Learning/Validacao_loss.png" alt="Validação loss">
-         <img src="Images/Previsao_chuva/Deep_Learning/ROC.png" alt="Curva ROC">
+      <div>
+         <img src="Images/Previsao_chuva/Deep_Learning/Confusion_matrix.png" alt="Matriz de confusão" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Deep_Learning/Validacao_loss.png" alt="Validação loss" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Deep_Learning/ROC.png" alt="Curva ROC" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h2>Trabalhos sobre Processamento de Imagens 🖼️</h2>
       <p>
@@ -106,53 +106,26 @@
       </p>
       <p><a href="https://github.com/lfelix466/Introducao-Processamento-de-Imagem-Digital.git">Link do projeto</a></p>
       <h3>Manipulações Gerais</h3>
-      <div class="galeria">
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem1.png" alt="Imagem 1">
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem2.png" alt="Imagem 2">
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem3.png" alt="Imagem 3">
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem4.png" alt="Imagem 4">
+      <div>
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem1.png" alt="Imagem 1" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem2.png" alt="Imagem 2" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem3.png" alt="Imagem 3" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem4.png" alt="Imagem 4" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h3>Filtros e Compressão</h3>
-      <div class="galeria">
-         <img src="Images/TrabalhosImagens/Trabalho2/Imagem1.png" alt="Imagem 1">
-         <img src="Images/TrabalhosImagens/Trabalho2/Imagem2.png" alt="Imagem 2">
+      <div>
+         <img src="Images/TrabalhosImagens/Trabalho2/Imagem1.png" alt="Imagem 1" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho2/Imagem2.png" alt="Imagem 2" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h3>Redirecionamento e OCR</h3>
-      <div class="galeria">
-         <img src="Images/TrabalhosImagens/Trabalho3/Imagem1.png" alt="Imagem 1">
-         <img src="Images/TrabalhosImagens/Trabalho3/Imagem2.png" alt="Imagem 2">
+      <div>
+         <img src="Images/TrabalhosImagens/Trabalho3/Imagem1.png" alt="Imagem 1" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho3/Imagem2.png" alt="Imagem 2" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h3>Transformações de Escala e Coleta de Dados</h3>
-      <div class="galeria">
-         <img src="Images/TrabalhosImagens/Trabalho4/Imagem1.png" alt="Imagem 1">
-         <img src="Images/TrabalhosImagens/Trabalho4/Imagem2.png" alt="Imagem 2">
+      <div>
+         <img src="Images/TrabalhosImagens/Trabalho4/Imagem1.png" alt="Imagem 1" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho4/Imagem2.png" alt="Imagem 2" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
    </body>
-   <style>
-         .galeria {
-         display: grid;
-         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-         gap: 20px;
-         max-width: 1200px;
-         margin: 0 auto;
-         padding: 20px;
-         }
-         .galeria img {
-         width: 100%;
-         height: auto;
-         border: 1px solid #ccc;
-         border-radius: 8px;
-         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-         transition: transform 0.2s ease;
-         }
-         .galeria img:hover {
-         transform: scale(1.02);
-         }
-         .logo {
-         align-items: center;
-         width: 150px;
-         background-color: aquamarine;
-         border-radius: 50px;
-         }
-      </style>
 </html>

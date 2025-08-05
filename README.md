@@ -8,7 +8,7 @@
    </head>
    <body>
       <div style="text-align: center;">
-         <img src="Images/Linux-Avatar.svg" alt="Imagem do logo do Linux" style="align-items: center; width: 150px; background-color: aquamarine; border-radius: 50px;" />
+         <img src="Images/Linux-Avatar.svg" alt="Imagem do logo do Linux" style="width: 150px; border-radius: 60px;" />
          <p><strong>Lucas Félix</strong> (Desenvolvedor Full-Stack)</p>
       </div>
       <h3>Tecnologias que trabalho atualmente</h3>

@@ -1,5 +1,3 @@
-<!-- Remova as tags <style> e aplique o CSS inline nos elementos necessários, pois o GitHub não processa <style> em markdown. -->
-
 <!DOCTYPE html>
 <html lang="pt-BR">
    <head>
@@ -64,12 +62,12 @@
          <li>Tela de adição de gastos</li>
       </ul>
       <div>
-         <img src="Images/ControleFinanceiro/Login.png" alt="Tela de login" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/ControleFinanceiro/CriarConta.png" alt="Tela de criação de conta" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/ControleFinanceiro/MenuPrincipal.png" alt="Tela principal da aplicação" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/ControleFinanceiro/AprenderMais.png" alt="Tela de ler dicas de economia" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/ControleFinanceiro/trocaSenha.png" alt="Tela de trocar a senha" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/ControleFinanceiro/AdicionarGastos.png" alt="Tela de adição de gastos" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/Login.png" alt="Tela de login" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" >
+         <img src="Images/ControleFinanceiro/CriarConta.png" alt="Tela de criação de conta" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/MenuPrincipal.png" alt="Tela principal da aplicação" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/AprenderMais.png" alt="Tela de ler dicas de economia" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/trocaSenha.png" alt="Tela de trocar a senha" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/ControleFinanceiro/AdicionarGastos.png" alt="Tela de adição de gastos" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h2>Projeto de IA para Previsão de Chuva 🤖</h2>
       <p>
@@ -84,21 +82,21 @@
       </ul>
       <h4>Resultados: Regressão Logística</h4>
       <div>
-         <img src="Images/Previsao_chuva/Regressao_Logistica/Confusion_matrix.png" alt="Matriz de confusão" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/Previsao_chuva/Regressao_Logistica/Feature_importance.png" alt="Importância das features" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/Previsao_chuva/Regressao_Logistica/ROC.png" alt="Curva ROC" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Regressao_Logistica/Confusion_matrix.png" alt="Matriz de confusão" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" >
+         <img src="Images/Previsao_chuva/Regressao_Logistica/Feature_importance.png" alt="Importância das features" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Regressao_Logistica/ROC.png" alt="Curva ROC" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h4>Resultados: Random Forest</h4>
       <div>
-         <img src="Images/Previsao_chuva/Random_Forest/Confusion_matrix.png" alt="Matriz de confusão" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/Previsao_chuva/Random_Forest/Feature_importac-nce.png" alt="Importância das features" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/Previsao_chuva/Random_Forest/ROC.png" alt="Curva ROC" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Random_Forest/Confusion_matrix.png" alt="Matriz de confusão" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Random_Forest/Feature_importac-nce.png" alt="Importância das features" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Random_Forest/ROC.png" alt="Curva ROC" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h4>Resultados: Deep Learning</h4>
       <div>
-         <img src="Images/Previsao_chuva/Deep_Learning/Confusion_matrix.png" alt="Matriz de confusão" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/Previsao_chuva/Deep_Learning/Validacao_loss.png" alt="Validação loss" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/Previsao_chuva/Deep_Learning/ROC.png" alt="Curva ROC" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Deep_Learning/Confusion_matrix.png" alt="Matriz de confusão" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Deep_Learning/Validacao_loss.png" alt="Validação loss" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/Previsao_chuva/Deep_Learning/ROC.png" alt="Curva ROC" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h2>Trabalhos sobre Processamento de Imagens 🖼️</h2>
       <p>
@@ -107,25 +105,25 @@
       <p><a href="https://github.com/lfelix466/Introducao-Processamento-de-Imagem-Digital.git">Link do projeto</a></p>
       <h3>Manipulações Gerais</h3>
       <div>
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem1.png" alt="Imagem 1" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem2.png" alt="Imagem 2" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem3.png" alt="Imagem 3" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/TrabalhosImagens/Trabalho1/Imagem4.png" alt="Imagem 4" style="width: 24%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem1.png" alt="Imagem 1" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem2.png" alt="Imagem 2" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem3.png" alt="Imagem 3" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho1/Imagem4.png" alt="Imagem 4" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h3>Filtros e Compressão</h3>
       <div>
-         <img src="Images/TrabalhosImagens/Trabalho2/Imagem1.png" alt="Imagem 1" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/TrabalhosImagens/Trabalho2/Imagem2.png" alt="Imagem 2" style="width: 32%; min-width: 200px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho2/Imagem1.png" alt="Imagem 1" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho2/Imagem2.png" alt="Imagem 2" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h3>Redirecionamento e OCR</h3>
       <div>
-         <img src="Images/TrabalhosImagens/Trabalho3/Imagem1.png" alt="Imagem 1" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/TrabalhosImagens/Trabalho3/Imagem2.png" alt="Imagem 2" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho3/Imagem1.png" alt="Imagem 1" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho3/Imagem2.png" alt="Imagem 2" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
       <h3>Transformações de Escala e Coleta de Dados</h3>
       <div>
-         <img src="Images/TrabalhosImagens/Trabalho4/Imagem1.png" alt="Imagem 1" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
-         <img src="Images/TrabalhosImagens/Trabalho4/Imagem2.png" alt="Imagem 2" style="width: 48%; min-width: 150px; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho4/Imagem1.png" alt="Imagem 1" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         <img src="Images/TrabalhosImagens/Trabalho4/Imagem2.png" alt="Imagem 2" style="width: 48%; margin: 1%; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
       </div>
    </body>
 </html>
